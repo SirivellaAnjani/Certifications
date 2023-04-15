@@ -1,12 +1,16 @@
 # Certifications
 A place to store all my relevant certifications
 
+## Azure 
 
-
+[Credly](https://www.credly.com/badges/c0c591e2-23fa-4b12-991c-a2a4a97c83fd/public_url)
 
 ## IBM Data Analyst Program
 Received IBM Professional Certificate on April 2023
-[Certificate]() | [Coursera](0-IBM Data Analyst Professional Certificate.pdf)
+
+&emsp; &emsp; &emsp; &emsp; [Certificate](0-IBM%20Data%20Analyst%20Professional%20Certificate.pdf) | [Coursera](https://www.coursera.org/programs/jda20231t5-xjfkx/professional-certificates/ibm-data-analyst)
+
+
 ### Awarded on completing the following courses:
 
 Course 1: Introduction to Data Analytics
