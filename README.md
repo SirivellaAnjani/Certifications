@@ -5,7 +5,9 @@ A place to store all my relevant certifications
 
 &emsp; &emsp; &emsp; &emsp; [Certificate](Microsoft%20Azure%20Fundamentals.pdf) | [Credly](https://www.credly.com/badges/c0c591e2-23fa-4b12-991c-a2a4a97c83fd/public_url)
 
-## IBM Data Analyst Program
+
+## <img src="https://user-images.githubusercontent.com/122895160/232238280-5af67214-959e-41e9-838a-3ab35565559c.png" height="50"> IBM Data Analyst Program
+
 Received IBM Professional Certificate on April 2023
 
 &emsp; &emsp; &emsp; &emsp; [Certificate](0-IBM%20Data%20Analyst%20Professional%20Certificate.pdf) | [Coursera](https://www.coursera.org/programs/jda20231t5-xjfkx/professional-certificates/ibm-data-analyst)
