@@ -1,7 +1,7 @@
 # Certifications
 A place to store all my relevant certifications
 
-## <img src="microsoft-certified-azure-fundamentals.png" width="50" height="50"> Azure 
+## <img src="microsoft-certified-azure-fundamentals.png" width="50" height="50"> Azure Fundamentals
 
 &emsp; &emsp; &emsp; &emsp; [Certificate](Microsoft%20Azure%20Fundamentals.pdf) | [Credly](https://www.credly.com/badges/c0c591e2-23fa-4b12-991c-a2a4a97c83fd/public_url)
 
